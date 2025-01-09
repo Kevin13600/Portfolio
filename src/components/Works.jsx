@@ -14,6 +14,7 @@ import eventsImg from '../assets/724events.webp';
 import argentBankImg from '../assets/argentbank.webp';
 import bookiImg from '../assets/booki.webp';
 import worksSvg from '../assets/works.svg';
+import transportImg from '../assets/transport.webp';
 
 const WorksSection = styled.section`
   background-color: #f8f8f8;
@@ -283,6 +284,13 @@ const projects = [
       image: bookiImg,
       techStack: ["HTML", "CSS", "Design Responsive"],
       githubLink: "https://github.com/Kevin13600/Uyttenbroeck_Kevin_3_Creez_la_page_d_accueil_d_une_agence_de_voyage_avec_HTML_CSS_220224"
+    },
+    {
+      title: "Efraïm Transport",
+      description: "Site web de réservation de transports multilangues.",
+      image: transportImg,
+      techStack: ["React", "TypeScript", "TailwindCSS", "Node.js", "Node.js", "Express", "Nodemailer"],
+      githubLink: "https://github.com/Kevin13600/Efra-m-transport"
     }
   ];
 

@@ -26,7 +26,7 @@ Ce portfolio présente mes compétences en développement web et mes projets ré
 
 1. Clonez ce dépôt
    ```
-   git clone https://github.com/Kevin13600/Uyttenbroeck_Kevin_12_Creez_et_publiez_votre_portfolio_de_developpeur_16102024.git
+   git clone https://github.com/Kevin13600/Portfolio.git
    ```
 2. Naviguez dans le dossier du projet
    ```
@@ -45,7 +45,7 @@ L'application sera accessible à l'adresse http://localhost:5173/
 
 ## 🌐 Déploiement
 
-Ce portfolio est déployé sur Github pages. Vous pouvez le voir en ligne à l'adresse : [\[URL de votre portfolio\]](https://kevin13600.github.io/Uyttenbroeck_Kevin_12_Creez_et_publiez_votre_portfolio_de_developpeur_16102024/)
+Ce portfolio est déployé sur Github pages. Vous pouvez le voir en ligne à l'adresse : [\[URL de votre portfolio\]](https://kevin13600.github.io/Portfolio/)
 
 ## 🤝 Contribution
 
@@ -57,4 +57,4 @@ Les contributions, problèmes et demandes de fonctionnalités sont les bienvenus
 
 [Kevin Uyttenbroeck] - https://www.linkedin.com/in/kevin-uyttenbroeck-640934107/ - k.uyttenbroeck@gmail.com
 
-Lien du projet: [https://github.com/Kevin13600/Uyttenbroeck_Kevin_12_Creez_et_publiez_votre_portfolio_de_developpeur_16102024]
+Lien du projet: [https://github.com/Kevin13600/Portfolio]
