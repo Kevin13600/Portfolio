@@ -289,7 +289,7 @@ const projects = [
       title: "Efraïm Transport",
       description: "Site web de réservation de transports multilangues.",
       image: transportImg,
-      techStack: ["React", "TypeScript", "TailwindCSS", "Node.js", "Node.js", "Express", "Nodemailer"],
+      techStack: ["React", "TypeScript", "TailwindCSS", "Node.js", "Express", "Nodemailer"],
       githubLink: "https://github.com/Kevin13600/Efra-m-transport"
     }
   ];
